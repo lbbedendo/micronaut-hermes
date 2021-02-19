@@ -12,7 +12,6 @@ subprojects { Project subproject ->
 
     apply plugin: "io.micronaut.build.internal.common"
     apply plugin: "io.micronaut.build.internal.dependency-updates"
-
     apply plugin: "io.micronaut.build.internal.publishing"
 }
 
