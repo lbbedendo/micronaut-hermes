@@ -1,3 +1,3 @@
-rootProject.name = 'xxx'
+rootProject.name = 'micronaut-hermes'
 
-include 'xxx'
+include 'hermes'
